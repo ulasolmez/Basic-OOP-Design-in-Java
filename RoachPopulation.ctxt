@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RoachPopulation
+comment0.text=\r\n\ A\ class\ that\ keeps\ track\ of\ population\ and\ breeding\ of\ roaches.\r\n\r\n\ @ulasolmez\r\n\ @24.03.2024\r\n
+comment1.params=startPopulation
+comment1.target=RoachPopulation(int)
+comment1.text=\r\n\ Constructor\ for\ the\ RoachPopulation\ class.\r\n\ @param\ startPopulation\ the\ initial\ population\ of\ the\ roaches.\r\n
+comment2.params=
+comment2.target=void\ breed()
+comment2.text=\r\n\ Doubles\ the\ roach\ population.\r\n
+comment3.params=percent
+comment3.target=void\ spray(double)
+comment3.text=\r\n\ Reduces\ the\ roach\ population\ to\ a\ certain\ percentage.\r\n\ @param\ percent\ the\ percentage\ of\ how\ much\ the\ population\ should\ be\ reduced.\r\n
+comment4.params=
+comment4.target=void\ getRoach()
+comment4.text=\r\n\ Shows\ the\ population\ of\ roaches\ in\ a\ Dialog\ box.\r\n
+numComments=5

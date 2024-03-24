@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ A\ database\ for\ keeping\ track\ of\ students\ information\ such\ as\ name,\ grades\ and\ averages.\r\n\r\n\ @ulasolmez\r\n\ @24.03.2024\r\n
+comment1.params=studentName
+comment1.target=Student(java.lang.String)
+comment1.text=\ \r\n\ Constructor\ for\ the\ class\ Student\r\n\ @param\ studentName\ the\ name\ of\ the\ student.\r\n
+comment2.params=
+comment2.target=void\ addQuiz()
+comment2.text=\r\n\ Adds\ a\ student's\ quiz\ score\ and\ \r\n\ adds\ each\ score\ to\ their\ total\ score\ by\ utilizing\ javax.swing.JOptionPane.\r\n
+comment3.params=
+comment3.target=void\ getTotalScore()
+comment3.text=\r\n\ Shows\ the\ total\ score\ of\ a\ student\ in\ a\ Dialog\ box.\r\n
+comment4.params=
+comment4.target=void\ getAverage()
+comment4.text=\r\n\ Shows\ the\ average\ score\ of\ a\ student\ in\ a\ Dialog\ box.\r\n
+numComments=5
